@@ -1,0 +1,8 @@
+[
+    {"titre":"e-commerce", "contenu": "Un article sur la gestion et le commerce", "category": "commerce", "tags": "commerce, gestion, FN", "version": "1.0"},
+    {"titre":"e-politique", "contenu": "Un article sur la politique", "category": "politique", "tags": "commerce, gestion, FN", "version": "1.0"},
+    {"titre":"e-cuisine", "contenu": "Un article sur la cuisine", "category": "cuisine", "tag": "commerce, gestion, FN", "version": "1.0"},
+    {"titre":"e-commerce2", "contenu": "Un article sur le commerce de demain", "category": "commerce", "tags": "commerce, gestion, FN", "version": "1.0"},
+    {"titre":"e-politique2", "contenu": "Un article sur la politique nouvelle", "category": "politique", "tags": "commerce, gestion, FN", "version": "1.0"},
+    {"titre":"e-cuisine2", "contenu": "Un article sur la cuisine de demain", "category": "cuisine", "tags": "commerce, gestion, FN", "version": "1.0"}
+]

@@ -1,0 +1,118 @@
+body {
+  background-color: rgb(56, 78, 102);
+  height: 100%;
+}
+
+#add {
+  display: flex;
+  justify-content: center;
+  border: 1px solid white;
+  margin-bottom: 100px;
+  padding: 10px;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#add :not(p) {
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
+
+.App {
+  width: 75%;
+  margin: auto;
+}
+
+h1.title {
+  text-align: center;
+  color: white
+}
+
+li {
+  list-style-type: none;
+  margin-right: 1rem;
+  margin-top: 1rem;
+  background-color: white;
+  padding: 1rem;
+  border: 1px solid lightgray;
+}
+
+input[type="checkbox"] {
+  margin-right: 1rem;
+}
+
+#title {
+  font-weight: bold;
+}
+
+#contenu {
+  font-style: italic;
+}
+
+.removeBtn {
+  text-align: center;
+  font-weight: bold;
+  padding: 5px;
+  margin-top: 5px;
+  color: black;
+  border: 1px solid black;
+  background-color: white;
+}
+
+input[type='text'] {
+  width: 10rem;
+  margin-right: 1rem;
+}
+
+select {
+  margin-right: 1rem;
+}
+
+button[type='submit'] {
+  font-weight: bold;
+  padding: 5px;
+  margin-top: 5px;
+  color: black;
+  border: 1px solid black;
+  background-color: white;
+}
+
+button:hover {
+  cursor: pointer;
+  color: white;
+  background-color: rgb(56, 78, 102);
+  border: 1px solid white;
+}
+
+form {
+  width: 20%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+textarea {
+  width: 800px;
+  height: 300px;
+}
+
+.recherche_cat {
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+select:hover {
+  cursor: pointer;
+}
+
+.recherche_cat {
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
