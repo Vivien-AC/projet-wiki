@@ -1,5 +1,22 @@
 ## Projet full stack Wiki
 
+Vivien DI BATTISTA
+Jérémy ALLIES
+
+La partie back développée en nodejs se trouve dans le répertoire /api et tourne sous le port 8000
+Pour lancer le serveur : 
+
+### `node server.js`
+
+La projet React tourne sur le port 3000 se lance avec la commande suivante : 
+
+### `npm start`
+
+Pour accéder à l'application il suffit d'ouvrir [http://localhost:3000](http://localhost:3000) dans le navigateur.
+
+
+
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -7,15 +24,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm start`
 
 Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open  to view it in the browser.
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
-### `npm test`
+
 
 Launches the test runner in the interactive watch mode.<br />
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
