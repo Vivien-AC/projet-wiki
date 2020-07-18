@@ -16,11 +16,28 @@ body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+#modifie {
+  display: flex;
+  justify-content: center;
+  border: 1px solid white;
+  margin-bottom: 100px;
+  padding: 10px;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 #add :not(p) {
   margin-top: 12px;
   margin-bottom: 12px;
 }
 
+#modifie :not(p) {
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
 .App {
   width: 75%;
   margin: auto;
@@ -56,7 +73,17 @@ input[type="checkbox"] {
   text-align: center;
   font-weight: bold;
   padding: 5px;
-  margin-top: 5px;
+  margin: 5px;
+  color: black;
+  border: 1px solid black;
+  background-color: white;
+}
+
+.modifieBtn {
+  text-align: center;
+  font-weight: bold;
+  padding: 5px;
+  margin: 5px;
   color: black;
   border: 1px solid black;
   background-color: white;
