@@ -33,3 +33,7 @@ Les requêtes de l'API : <br />
 Les fonctionnalités de l'application sont les suivantes : <br />
 - Voir tous les articles <br />
 - Ajout d'un article <br />
+- Modification d'un article <br />
+- Suppresion <br />
+- Recherche <br />
+- Catégorisation ...
